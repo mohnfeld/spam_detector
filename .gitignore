@@ -1,2 +1,4 @@
-*.csv
+processed/processed_text2.csv
+archive/phishing_email.csv
+
 *.zip
